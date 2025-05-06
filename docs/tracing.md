@@ -115,3 +115,4 @@ To customize this default setup, to send traces to alternative or additional bac
 -   [Langfuse](https://langfuse.com/docs/integrations/openaiagentssdk/openai-agents)
 -   [Langtrace](https://docs.langtrace.ai/supported-integrations/llm-frameworks/openai-agents-sdk)
 -   [Okahu-Monocle](https://github.com/monocle2ai/monocle)
+-   [LangWatch](https://github.com/langwatch/langwatch)
